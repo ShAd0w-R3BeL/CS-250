@@ -36,3 +36,17 @@ CS-20410: Applying the stages of the SDLC within an agile development environmen
 CS-30411: Evaluating various software development methodologies and tools.
 
 Each project and assignment serves as an artifact to showcase my practical skills and theoretical knowledge in software development, project management, and quality assurance.
+
+Getting Started To explore the code in this repository, you can clone it to your local machine using the following command:
+
+git clone https://github.com/ShAd0w-R3BeL/CS-250.git
+
+Each project's folder will contain a README file with specific instructions on how to compile and run the code.
+
+Contact Feel free to reach out to me with any questions or feedback.
+
+Name: Matthew Wood
+
+Email: matthew.wood16@snhu.edu
+
+LinkedIn: https://www.linkedin.com/in/matthew-r-wood-56b3b44b/
