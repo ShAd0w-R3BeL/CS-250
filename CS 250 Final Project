@@ -1,0 +1,31 @@
+Sprint Review and Retrospective 
+CS 250 Final Project – SNHU Travel Application 
+Matthew Wood 
+ChadaTech Scrum Team
+________________________________________
+Applying Roles
+Throughout the development of the SNHU Travel application, I assumed various roles within the Scrum-Agile framework, each contributing uniquely to the project’s success. As a Product Owner, I prioritized user stories based on client needs, such as enabling users to search for travel destinations by budget. This role required balancing business goals with technical feasibility, which I achieved by refining the backlog and collaborating closely with the development team.
+As a Developer, I implemented core features using C++ and Python, including file handling for itinerary storage and conditional logic for filtering destinations. My attention to detail and iterative debugging ensured that each module met functional and formatting requirements. For example, I used setw() and setfill() manipulators in C++ to enhance output readability, aligning with professional coding standards.
+Finally, as the Scrum Master, I facilitated sprint planning and daily stand-ups, helping the team stay focused and resolve blockers. I encouraged open communication and ensured that Agile principles guided our workflow, fostering a collaborative and adaptive environment.
+________________________________________
+Completing User Stories
+The Scrum-Agile approach was instrumental in completing user stories efficiently. By breaking down the project into manageable tasks, we maintained momentum and delivered incremental value. One user story—“As a traveler, I want to view travel options sorted by climate”—was completed by applying modular programming and data conversion techniques. I used a Fahrenheit-to-Celsius conversion formula in Python to support this feature, demonstrating how Agile’s iterative nature allowed for focused development and early testing.
+Each sprint ended with a review of completed stories, enabling us to adjust priorities and incorporate feedback. This continuous loop of planning, execution, and review ensured that user needs remained central throughout development.
+________________________________________
+Handling Interruptions
+Midway through development, the project scope shifted when SNHU Travel requested integration with a third-party booking API. This interruption could have derailed progress under a waterfall model, but Agile’s flexibility allowed us to adapt. We re-evaluated the backlog, added new user stories, and adjusted sprint goals accordingly.
+During sprint planning, I facilitated discussions on how to reallocate resources and redefine deliverables. The team responded by implementing encapsulated modules that could interface with external APIs, showcasing our ability to pivot without compromising quality or timeline.
+________________________________________
+Communication
+Effective communication was a cornerstone of our success. I maintained clear and consistent messaging through sprint planning notes, stand-up summaries, and backlog updates. For example, during a sprint review, I shared a concise summary of completed tasks and pending items, which helped the team align on next steps.
+One particularly effective communication moment occurred when I used pseudocode to explain the logic behind the itinerary generator. This visual aid clarified the implementation strategy and encouraged collaborative problem-solving. By fostering transparency and active listening, we built a team culture rooted in trust and shared ownership.
+________________________________________
+Organizational Tools
+We used Trello to manage our product backlog and track sprint progress. The visual layout of tasks helped identify blockers and monitor velocity. Scrum events—such as sprint planning, daily stand-ups, and retrospectives—were essential in maintaining structure and accountability.
+The retrospective meetings allowed us to reflect on what went well and what could be improved. For instance, we recognized that our initial sprint goals were too ambitious, leading to scope adjustments in later sprints. These insights helped us refine our planning process and improve team performance.
+________________________________________
+Evaluating Agile Process
+The Scrum-Agile approach offered several advantages during the SNHU Travel project:
+•	Pros: Flexibility to adapt to changing requirements, continuous feedback, and strong team collaboration.
+•	Cons: Requires disciplined time management and clear role definitions to avoid confusion.
+Overall, Agile was the best approach for this project. Its iterative nature allowed us to respond to client feedback, manage interruptions, and deliver a functional product within the timeline. The emphasis on collaboration and adaptability made it well-suited for a dynamic development environment like SNHU Travel.
